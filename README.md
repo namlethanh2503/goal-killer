@@ -1,0 +1,2 @@
+# goal-killer
+kill
